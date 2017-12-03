@@ -1,0 +1,6 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+dundes.com	TRUE	/	FALSE	1999999999	PHPSESSID	l1oom5fq67a01qp9tm2u2dvmp2
+dundes.com	TRUE	/	FALSE	1999999999	wmp_load_app	0
+dundes.com	TRUE	/	FALSE	1999999999	wordpress_test_cookie	WP+Cookie+check
+
